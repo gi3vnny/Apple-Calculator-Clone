@@ -51,9 +51,11 @@ form .display {
 form .display input {
     background: rgb(21, 21, 21); 
     color: #fff;
-    font-size: 50px;
-    width: 100%;
-    text-align: end;
+    font-size: 45px;
+    width: 95%;
+    text-align: right;
+    overflow: auto;
+
 }
 
 /* Color Styling on Operator Btns */ 
