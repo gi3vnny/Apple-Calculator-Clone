@@ -16,6 +16,6 @@ As this is my first project with JavaScript, I will continue to work and gain pr
 
 Updates to this project may come later.
 
-Final Page Outcome: ![Calculator Screenshot](img/page-calculator.png)
+Final Page Outcome: ![Calculator Screenshot](img/page-screenshot.png)
 
 
