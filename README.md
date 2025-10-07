@@ -16,6 +16,10 @@ As this is my first project with JavaScript, I will continue to work and gain pr
 
 Updates to this project may come later.
 
+<<<<<<< HEAD:docs/README.md
 Final Page Outcome: ![Screenshot](img/page-screenshot.png)
+=======
+Final Page Outcome: (img/page-screenshot.png)
+>>>>>>> 9ba4f61 (Edits to README.md):README.md
 
 
